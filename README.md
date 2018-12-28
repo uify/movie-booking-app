@@ -1,4 +1,6 @@
-# movie-booking-app
+# Movie Booking App.
+
+A Movie Booking UI made with React Native.
 
 <img src="https://i.imgur.com/1pBKf4S.jpg" alt="Image of React Native Movie Booking App" width="200"/>
 
