@@ -1,6 +1,6 @@
 # movie-booking-app
 
-![Image of React Native Movie Booking App](https://i.imgur.com/1pBKf4S.jpg =250x)
+![Image of React Native Movie Booking App](https://i.imgur.com/1pBKf4S.jpg =200x200)
 
 Todo: 
 
