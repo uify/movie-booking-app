@@ -47,7 +47,10 @@ export default class App extends Component {
           place= "Cinemas Nearby"
           location= "Aurora, Denver"
         />
-        <ScrollView style={styles.content}>
+        <ScrollView 
+          style={styles.content}
+          showsVerticalScrollIndicator={false}
+        >
           {this.renderCards()}
         </ScrollView>
       </View>
